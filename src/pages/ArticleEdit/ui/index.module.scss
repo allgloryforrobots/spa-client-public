@@ -1,0 +1,28 @@
+.articleContainer {
+    width: 100%;
+    max-width: 650px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.saveBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+}
+
+.rightEdgeButton {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.leftEdgeButton {
+    margin-left: 10px;
+}
+
+.alertPanel {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}

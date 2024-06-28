@@ -1,0 +1,21 @@
+.mainContainer {
+    max-width: var(--global-main-container-size);
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fullPage {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centerContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
